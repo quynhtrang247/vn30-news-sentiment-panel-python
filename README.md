@@ -29,7 +29,7 @@ The study examines whether firm-specific sentiment provides additional explanato
 
 ## Sample Output
 
-![Sentiment vs Market Return](outputs/sentiment_market_chart.png)
+![Sentiment vs Market Return](output/sentiment_market_chart.jpg)
 
 ## Key Findings
 - Firm-specific sentiment shows a positive and statistically significant relationship with short-term stock returns
